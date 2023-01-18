@@ -1,3 +1,17 @@
+# generated files from ts sources in specific ts only modules (Include in NPM)
+src/**/*.js
+src/**/*.js.map
+src/**/*.d.ts
+
+# Formatting (Exclude in NPM)
+# .eslintignore
+# .eslintrc.cjs
+# .prettierignore
+# .prettierrc
+
+
+# Template from github for node files
+
 # Logs
 logs
 *.log
